@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Sorin
 
-<!--
-**BeldieSorin/BeldieSorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineer by training, tech explorer by curiosity.**
 
-Here are some ideas to get you started:
+- 🛠 Aerospace and mechanical background, with hands-on experience in automotive and sustainable mobility.
+- ⚙️ Worked with Renault, Dacia, and Connect44 — from paint calibration and documentation to EV fleet operations.
+- 🔍 Exploring coding, simulation, and automation tools to extend my engineering toolkit.
+- 📊 Projects: Statistics, JIRA automation, Fortran parallelism with OpenCoarrays.
+- 🌍 Languages: Romanian 🇷🇴 | French 🇫🇷 | English 🇬🇧
+- 🧰 Tools I use: Python, Fortran, CATIA V5, LibreOffice, Git
+- 🚀 Interests: Engineering simulations, gas turbines, aviation engines, powerplant systems, open-source collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Always open to learning something new or collaborating on practical, real-world tech challenges.**
