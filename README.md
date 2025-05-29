@@ -8,6 +8,6 @@
 - 📊 Projects: Statistics, JIRA automation, Fortran parallelism with OpenCoarrays.
 - 🌍 Languages: Romanian 🇷🇴 | French 🇫🇷 | English 🇬🇧
 - 🧰 Tools I use: Python, Fortran, CATIA V5, LibreOffice, Git
-- 🚀 Interests: Engineering simulations, gas turbines, aviation engines, powerplant systems, open-source collaboration
+- 🚀 Interests: Engineering simulations, gas turbines, aviation engines, powerplant systems, turbomachinery, open-source collaboration
 
 💼 **Always open to learning something new or collaborating on practical, real-world tech challenges.**
