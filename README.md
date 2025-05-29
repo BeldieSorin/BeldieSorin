@@ -44,10 +44,5 @@
 </div>
 """
 
-# Save to a file
-md_file_path = "/mnt/data/README_Tron.md"
-with open(md_file_path, "w") as file:
-    file.write(readme_content)
 
-md_file_path
 
