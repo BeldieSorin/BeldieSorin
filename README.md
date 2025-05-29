@@ -11,3 +11,10 @@
 - 🚀 Interests: Engineering simulations, gas turbines, aviation engines, powerplant systems, turbomachinery, open-source collaboration
 
 💼 **Always open to learning something new or collaborating on practical, real-world tech challenges.**
+
+
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+![CATIA V5](https://img.shields.io/badge/CATIA-V5-blue?style=for-the-badge)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
