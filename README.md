@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sorin
 
-**Engineer by training, tech explorer by curiosity.**
+**Engineer. Technologist. Explorer of systems.**
 
 - 🛠 Aerospace and mechanical background, with hands-on experience in automotive and sustainable mobility.
 - ⚙️ Worked with Renault, Dacia, and Connect44 — from paint calibration and documentation to EV fleet operations.
@@ -10,10 +10,17 @@
 - 🧰 Tools I use: Python, Fortran, CATIA V5, LibreOffice, Git
 - 🚀 Interests: Engineering simulations, gas turbines, aviation engines, powerplant systems, turbomachinery, open-source collaboration
 
-💼 **Always open to learning something new or collaborating on practical, real-world tech challenges.**
+# Create an enhanced Tron-styled README.md content
+readme_content = """
+# 👋 Hi, I'm Sorin
 
+
+
+---
 
 ### 🧰 Tools & Technologies
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=cyan)
 ![Fortran](https://img.shields.io/badge/Fortran-1A1A2E?style=for-the-badge&logo=fortran&logoColor=cyan)
@@ -21,6 +28,9 @@
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-2F4F4F?style=for-the-badge&logo=libreoffice&logoColor=cyan)
 ![JIRA](https://img.shields.io/badge/JIRA-0A0F1F?style=for-the-badge&logo=jira&logoColor=cyan)
 
+</div>
+
+---
 
 ### 🌐 Languages
 
@@ -28,8 +38,21 @@
 - 🇫🇷 French – Fluent  
 - 🇷🇴 Romanian – Native
 
+---
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 ![BeldieSorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeldieSorin&show_icons=true&theme=tokyonight&hide_rank=true)
+
+</div>
+"""
+
+# Save to a file
+md_file_path = "/mnt/data/README_Tron.md"
+with open(md_file_path, "w") as file:
+    file.write(readme_content)
+
+md_file_path
 
