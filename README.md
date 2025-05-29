@@ -10,11 +10,6 @@
 - 🧰 Tools I use: Python, Fortran, CATIA V5, LibreOffice, Git
 - 🚀 Interests: Engineering simulations, gas turbines, aviation engines, powerplant systems, turbomachinery, open-source collaboration
 
-# Create an enhanced Tron-styled README.md content
-readme_content = """
-# 👋 Hi, I'm Sorin
-
-
 
 ---
 
