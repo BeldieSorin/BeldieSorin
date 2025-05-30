@@ -34,7 +34,7 @@
 - 🇷🇴 Romanian – Native
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-beldie-76a40515/)
 ---
 
 ### 📊 GitHub Stats
